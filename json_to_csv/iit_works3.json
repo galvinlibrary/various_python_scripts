@@ -1,0 +1,659 @@
+{
+	"items": [{
+		"DOI": "10.18409\/jas.v1i1.2",
+		"title": ["Letter from the Editors"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v1i1.3",
+		"title": ["Editorial Messages"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v1i1.4",
+		"title": ["Abstract Algebra in Statistics"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v1i1.6",
+		"title": ["Position and Orientation Distributions for Non-Reversal Random Walks using Space-Group Fourier Transforms"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T13:39:47Z",
+			"timestamp": 1438090787000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66.s21",
+		"title": ["Figure 1"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i1.33",
+		"title": ["A Family of Quasisymmetry Models"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.60",
+		"title": ["Mixture models for rating data: the method of moments via Groebner bases"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66",
+		"title": ["Unimodular hierarchical models and their Graver bases"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v7i1.48",
+		"title": ["An Euclidean norm based criterion to assess robots\u2019 2D path-following performance"],
+		"created": {
+			"date-parts": [
+				[2016, 7, 12]
+			],
+			"date-time": "2016-07-12T19:06:22Z",
+			"timestamp": 1468350382000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v7i1.49",
+		"title": ["On multivariable cumulant polynomial sequences with applications"],
+		"created": {
+			"date-parts": [
+				[2016, 7, 12]
+			],
+			"date-time": "2016-07-12T19:06:22Z",
+			"timestamp": 1468350382000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v7i1.43",
+		"title": ["Algebraic geometry of Poisson regression"],
+		"created": {
+			"date-parts": [
+				[2016, 7, 12]
+			],
+			"date-time": "2016-07-12T19:06:22Z",
+			"timestamp": 1468350382000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v7i1.41",
+		"title": ["Mode Poset Probability Polytopes"],
+		"created": {
+			"date-parts": [
+				[2016, 7, 12]
+			],
+			"date-time": "2016-07-12T19:06:22Z",
+			"timestamp": 1468350382000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i1.55",
+		"title": ["Markov bases for two-way change-point models of ladder determinantal   tables"],
+		"created": {
+			"date-parts": [
+				[2017, 5, 3]
+			],
+			"date-time": "2017-05-03T19:28:32Z",
+			"timestamp": 1493839712000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i1.50",
+		"title": ["Matrix Completion for the Independence Model"],
+		"created": {
+			"date-parts": [
+				[2017, 2, 15]
+			],
+			"date-time": "2017-02-15T14:33:37Z",
+			"timestamp": 1487169217000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i1.47",
+		"title": ["Ideal-Theoretic Strategies for Asymptotic Approximation of Marginal Likelihood Integrals"],
+		"created": {
+			"date-parts": [
+				[2017, 2, 15]
+			],
+			"date-time": "2017-02-15T14:33:37Z",
+			"timestamp": 1487169217000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v2i1.7",
+		"title": ["An Iterative Method Converging to a Positive Solution of Certain Systems of Polynomial Equations"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v2i1.10",
+		"title": ["Connectivity for 3 x 3 x K contingency tables"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v4i1.18",
+		"title": ["Learning Coefficient in Bayesian Estimation of Restricted Boltzmann Machine"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v5i1.24",
+		"title": ["Estimation for Dyadic-Dependent Exponential Random Graph Models"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i1.34",
+		"title": ["Tying Up Loose Strands: Defining Equations of the Strand Symmetric Model"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i1.35",
+		"title": ["On the Connectivity of Fiber Graphs"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v3i1.13",
+		"title": ["Geometry of Higher-Order Markov Chains"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v3i1.15",
+		"title": ["Phylogenetic invariants for group-based models"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v3i1.14",
+		"title": ["L-cumulants, L-cumulant embeddings and algebraic statis- tics"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v3i1.16",
+		"title": ["Hilbert Polynomial of the Kimura 3-Parameter Model"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v1i1.5",
+		"title": ["Open Problems on Connectivity of Fibers with Positive Margins in Multi-dimensional Contingency Tables"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v4i1.19",
+		"title": ["On Polyhedral Approximations of Polytopes for Learning Bayesian Networks"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v5i1.26",
+		"title": ["Generic Identication of Binary-Valued Hidden Markov Processes"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v2i1.11",
+		"title": ["Bayesian Fusion on Lie Groups"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v4i1.21",
+		"title": ["Betti Numbers of Cut Ideals of Trees"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v4i1.20",
+		"title": ["Higher Connectivity of Fiber Graphs of Gr\u00f6bner Bases"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i1.36",
+		"title": ["The precision space of interpolatory cubature formul\u00e6"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v4i1.17",
+		"title": ["Binary hidden Markov models and varieties"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v5i1.23",
+		"title": ["Maximum Likelihood for Matrices with Rank Constraints"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v5i1.25",
+		"title": ["One example of general unidentifiable tensors"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v2i1.8",
+		"title": ["Properties of semi-elementary imsets as sums of elemen- tary imsets"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v2i1.27",
+		"title": ["Detecting epistasis via Markov bases"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v2i1.12",
+		"title": ["Array Variate Random Variables with Multiway Kro- necker Delta Covariance Matrix Structure"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v7i1.42",
+		"title": ["Moment Varieties of Gaussian Mixtures"],
+		"created": {
+			"date-parts": [
+				[2016, 7, 12]
+			],
+			"date-time": "2016-07-12T19:06:22Z",
+			"timestamp": 1468350382000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66.s20",
+		"title": ["TeX"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66.s22",
+		"title": ["Figure 2"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66.s24",
+		"title": ["Figure 3"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66.s23",
+		"title": ["Figure 2"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v8i2.66.s25",
+		"title": ["Figure 4"],
+		"created": {
+			"date-parts": [
+				[2018, 1, 2]
+			],
+			"date-time": "2018-01-02T15:44:30Z",
+			"timestamp": 1514907870000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.38.s2",
+		"title": ["Source files of \"Markov degree of configurations defined by fibers of a configuration\""],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.46.s5",
+		"title": ["Untitled"],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.46.s3",
+		"title": ["Untitled"],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.100",
+		"title": ["Stephen Fienberg's influence on algebraic statistics"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.62",
+		"title": ["Strongly Robust Toric Ideals in Codimension 2"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.71",
+		"title": ["Generalized Fr\u00e9chet Bounds for Cell Entries in Multidimensional Contingency Tables"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.72",
+		"title": ["Cubature rules and expected value of some complex functions"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.75",
+		"title": ["Maximum likelihood estimation of the Latent Class Model through model boundary decomposition"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.65",
+		"title": ["Exact tests to compare contingency tables under quasi-independence and quasi-symmetry"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.73",
+		"title": ["On Exchangeability in Network Models"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v10i1.74",
+		"title": ["Inference for Ordinal Log-Linear Models Based on Algebraic Statistics"],
+		"created": {
+			"date-parts": [
+				[2019, 4, 12]
+			],
+			"date-time": "2019-04-12T12:42:25Z",
+			"timestamp": 1555072945000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v9i1.59",
+		"title": ["Maximal Length Projections in Group Algebras with Applications to Linear Rank Tests of Uniformity"],
+		"created": {
+			"date-parts": [
+				[2018, 9, 27]
+			],
+			"date-time": "2018-09-27T13:50:00Z",
+			"timestamp": 1538056200000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v9i1.90",
+		"title": ["Mixtures and products in two graphical models"],
+		"created": {
+			"date-parts": [
+				[2018, 9, 27]
+			],
+			"date-time": "2018-09-27T13:50:00Z",
+			"timestamp": 1538056200000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.45",
+		"title": ["Uncovering Proximity of Chromosome Territories using Classical Algebraic Statistics"],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.46",
+		"title": ["A linear-algebraic tool for conditional independence inference"],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.38",
+		"title": ["Markov degree of configurations defined by fibers of a configuration"],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i2.44",
+		"title": ["The maximum likelihood degree of Fermat hypersurfaces"],
+		"created": {
+			"date-parts": [
+				[2015, 11, 9]
+			],
+			"date-time": "2015-11-09T16:39:53Z",
+			"timestamp": 1447087193000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v6i1.37",
+		"title": ["The degeneration of the Grassmannian into a toric variety and the calculation of the eigenspaces of a torus action"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v5i1.22",
+		"title": ["Varieties with maximum likelihood degree one"],
+		"created": {
+			"date-parts": [
+				[2015, 7, 28]
+			],
+			"date-time": "2015-07-28T17:39:47Z",
+			"timestamp": 1438105187000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v9i1.64",
+		"title": ["The geometry of Sloppiness"],
+		"created": {
+			"date-parts": [
+				[2018, 9, 27]
+			],
+			"date-time": "2018-09-27T13:50:00Z",
+			"timestamp": 1538056200000
+		}
+	}, {
+		"DOI": "10.18409\/jas.v7i1.41.s17",
+		"title": ["References"],
+		"created": {
+			"date-parts": [
+				[2016, 7, 12]
+			],
+			"date-time": "2016-07-12T19:06:22Z",
+			"timestamp": 1468350382000
+		}
+	}],
+	"items-per-page": 100,
+	"query": {
+		"start-index": 0,
+		"search-terms": null
+	}
+
+}
